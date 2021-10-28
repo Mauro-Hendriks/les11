@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+    /*background-image: url(img/100x100.gif);*/
+    
+}
+h1{
+    color: crimson;
+}
+p{
+    color: brown;
+}
+
+.cheat{
+    background-color: aqua;
+    color: aquamarine;
+    border: 5px solid aquamarine;
+    padding: 20px;
+}
